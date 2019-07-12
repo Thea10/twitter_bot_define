@@ -1,0 +1,28 @@
+{
+  "name": "define_bot",
+  "version": "1.0.0",
+  "description": "a twitter bot to define words",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thea10/twitter_bot_define.git"
+  },
+  "keywords": [
+    "define",
+    "bot",
+    "word",
+    "dictionary"
+  ],
+  "author": "Cynthia Akinade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thea10/twitter_bot_define/issues"
+  },
+  "homepage": "https://github.com/Thea10/twitter_bot_define#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
